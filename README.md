@@ -2,6 +2,6 @@
 Repository code for competitive programming contest or exercise
 
 #### Repository Structure
-[Google Code Jam 2019](https://codingcompetitions.withgoogle.com/codejam/archive/2019)\n
-[Hackerrrank](https://www.hackerrank.com)\n
-[Exercism](https://exercism.io/)
+1. [Google Code Jam 2019](https://codingcompetitions.withgoogle.com/codejam/archive/2019)
+2. [Hackerrrank](https://www.hackerrank.com)
+3. [Exercism](https://exercism.io/)

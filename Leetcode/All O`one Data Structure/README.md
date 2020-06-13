@@ -1,0 +1,2 @@
+Runtime: 128 ms, faster than 75.00% of JavaScript online submissions for All O`one Data Structure.
+Memory Usage: 45.5 MB, less than 65.71% of JavaScript online submissions for All O`one Data Structure.
